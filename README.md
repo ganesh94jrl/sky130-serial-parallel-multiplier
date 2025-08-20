@@ -1,4 +1,6 @@
-<img width="1203" height="1023" alt="Screenshot 2025-08-20 204400" src="https://github.com/user-attachments/assets/0e55c1b8-f3b6-4073-a46d-6ecac1055a48" /><img width="1203" height="1023" alt="Screenshot 2025-08-20 204400" src="https://github.com/user-attachments/assets/c4f01a8e-32da-4a21-96d9-eed6e374379c" /># ASIC Implementation of a Serial-Parallel Multiplier
+<img width="1203" height="1023" alt="Screenshot 2025-08-20 204400" src="https://github.com/user-attachments/assets/0e55c1b8-f3b6-4073-a46d-6ecac1055a48" /><img width="1203" height="1023" alt="Screenshot 2025-08-20 204400" src="https://github.com/user-attachments/assets/c4f01a8e-32da-4a21-96d9-eed6e374379c" />
+
+## ASIC Implementation of a Serial-Parallel Multiplier
 
 This project demonstrates a complete **RTL-to-GDSII** flow for a custom 32-bit Serial-Parallel Multiplier (SPM) using the open-source [OpenLane2](https://github.com/efabless/openlane2) ASIC toolchain and the [Google-Skywater SKY130](https://skywater-pdk.readthedocs.io/) process node.
 
@@ -86,7 +88,7 @@ Key metrics from the final run (`runs/sample_run/reports/metrics.csv`):
 
 ## 👤 Author
 
-Your Name - [https://www.linkedin.com/in/ganesh-kuppasta-0677392ab/]
+Ganesh Kuppasta - [https://www.linkedin.com/in/ganesh-kuppasta-0677392ab/]
 
 ## 📜 License
 
